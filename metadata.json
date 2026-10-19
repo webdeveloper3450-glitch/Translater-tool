@@ -1,0 +1,6 @@
+{
+  "name": "HTML Polyglot - Tag-Safe HTML Translator",
+  "description": "Translate HTML web pages and components to Russian, Arabic, Spanish, German, and 50+ languages while strictly preserving tags, classes, and IDs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
